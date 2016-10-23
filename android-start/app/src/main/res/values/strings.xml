@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ed</string>
+    <string name="welcome_msg">Welcome!</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="contacts_permission_rationale">Access to account information is required to sign in.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="fb_login_protocol_scheme">fb1932284360332218</string>
+    <string name="facebook_app_id">1932284360332218</string>
+</resources>
